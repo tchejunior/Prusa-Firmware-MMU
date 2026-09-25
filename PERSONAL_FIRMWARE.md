@@ -4,10 +4,9 @@ Personal fork: <https://github.com/tchejunior/Prusa-Firmware-MMU>
 
 Branch: `codex/personal-mmu`, based on upstream `v3.0.4` (`48d4d92`).
 This branch currently adds maintenance documentation only; MMU firmware source
-is unchanged. The paired Buddy branch is
-<https://github.com/tchejunior/Prusa-Firmware-Buddy/tree/codex/personal-coreone-6.8.1>.
-It uses Buddy v6.8.1 as requested. The earlier Buddy 6.10.1 branch is retained
-as `codex/personal-coreone` for reference.
+is unchanged. The current paired Buddy v6.5.7 branch is
+<https://github.com/tchejunior/Prusa-Firmware-Buddy/tree/codex/personal-coreone-6.5.7>.
+The earlier Buddy 6.8.1 and 6.10.1 branches remain available for reference.
 
 FINDA warning followed by ADC-triggered replacement loading, and the separate
 internal-filtration mode, are implemented on Buddy. Recovery uses existing MMU
